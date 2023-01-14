@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+    "gh-pages": "^4.0.0",
     "typescript": "^3.2.1"
   },
   "scripts": {
