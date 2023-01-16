@@ -2,7 +2,7 @@ import  { Configuration, OpenAIApi }  from 'openai';
 
 export async function TestChatGpt(prompt) {
     const configuration = new Configuration({
-        apiKey: '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'
+        apiKey: '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'
       });
     
     const openai = new OpenAIApi(configuration);
@@ -17,6 +17,5 @@ export async function TestChatGpt(prompt) {
         presence_penalty: 0.6,
         stop: [" Human:", " AI:"],
       });
-      //console.log(response.data.choices[0].text,'response');
     return response.data.choices[0].text;
 }
