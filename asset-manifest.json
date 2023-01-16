@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CHatGptWithReact/static/css/main.a6eaf2e5.chunk.css",
-    "main.js": "/CHatGptWithReact/static/js/main.675efa0d.chunk.js",
-    "main.js.map": "/CHatGptWithReact/static/js/main.675efa0d.chunk.js.map",
+    "main.js": "/CHatGptWithReact/static/js/main.ae25cbb8.chunk.js",
+    "main.js.map": "/CHatGptWithReact/static/js/main.ae25cbb8.chunk.js.map",
     "runtime-main.js": "/CHatGptWithReact/static/js/runtime-main.ff7c2cd0.js",
     "runtime-main.js.map": "/CHatGptWithReact/static/js/runtime-main.ff7c2cd0.js.map",
     "static/js/2.a31e7397.chunk.js": "/CHatGptWithReact/static/js/2.a31e7397.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ff7c2cd0.js",
     "static/js/2.a31e7397.chunk.js",
     "static/css/main.a6eaf2e5.chunk.css",
-    "static/js/main.675efa0d.chunk.js"
+    "static/js/main.ae25cbb8.chunk.js"
   ]
 }
