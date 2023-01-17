@@ -2,7 +2,7 @@ import  { Configuration, OpenAIApi }  from 'openai';
 
 export async function TestChatGpt(prompt) {
     const configuration = new Configuration({
-        apiKey: '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'
+        apiKey: secrets.SECRET_KEY 
       });
     
     const openai = new OpenAIApi(configuration);
