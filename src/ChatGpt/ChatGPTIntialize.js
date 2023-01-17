@@ -2,7 +2,7 @@ import  { Configuration, OpenAIApi }  from 'openai';
 
 export async function TestChatGpt(prompt) {
     const configuration = new Configuration({
-        apiKey: secrets.SECRET_KEY 
+        apiKey: process.env.REACT_APP_SECRET_KEY
       });
     
     const openai = new OpenAIApi(configuration);
