@@ -1,8 +1,10 @@
 import  { Configuration, OpenAIApi }  from 'openai';
 
+const secretKey = process.env.REACT_APP_SECRET_KEY+ 'pDzz'
+
 export async function TestChatGpt(prompt) {
     const configuration = new Configuration({
-        apiKey: process.env.REACT_APP_SECRET_KEY
+        apiKey: secretKey
       });
     
     const openai = new OpenAIApi(configuration);
