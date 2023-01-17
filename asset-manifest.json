@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/CHatGptWithReact/static/css/main.a6eaf2e5.chunk.css",
-    "main.js": "/CHatGptWithReact/static/js/main.312b67fc.chunk.js",
-    "main.js.map": "/CHatGptWithReact/static/js/main.312b67fc.chunk.js.map",
+    "main.js": "/CHatGptWithReact/static/js/main.ef2d3661.chunk.js",
+    "main.js.map": "/CHatGptWithReact/static/js/main.ef2d3661.chunk.js.map",
     "runtime-main.js": "/CHatGptWithReact/static/js/runtime-main.ff7c2cd0.js",
     "runtime-main.js.map": "/CHatGptWithReact/static/js/runtime-main.ff7c2cd0.js.map",
-    "static/js/2.a31e7397.chunk.js": "/CHatGptWithReact/static/js/2.a31e7397.chunk.js",
-    "static/js/2.a31e7397.chunk.js.map": "/CHatGptWithReact/static/js/2.a31e7397.chunk.js.map",
+    "static/js/2.26b2ace1.chunk.js": "/CHatGptWithReact/static/js/2.26b2ace1.chunk.js",
+    "static/js/2.26b2ace1.chunk.js.map": "/CHatGptWithReact/static/js/2.26b2ace1.chunk.js.map",
     "index.html": "/CHatGptWithReact/index.html",
     "static/css/main.a6eaf2e5.chunk.css.map": "/CHatGptWithReact/static/css/main.a6eaf2e5.chunk.css.map",
-    "static/js/2.a31e7397.chunk.js.LICENSE.txt": "/CHatGptWithReact/static/js/2.a31e7397.chunk.js.LICENSE.txt"
+    "static/js/2.26b2ace1.chunk.js.LICENSE.txt": "/CHatGptWithReact/static/js/2.26b2ace1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff7c2cd0.js",
-    "static/js/2.a31e7397.chunk.js",
+    "static/js/2.26b2ace1.chunk.js",
     "static/css/main.a6eaf2e5.chunk.css",
-    "static/js/main.312b67fc.chunk.js"
+    "static/js/main.ef2d3661.chunk.js"
   ]
 }
